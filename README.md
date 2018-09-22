@@ -1,2 +1,2 @@
 # hello-world
-this is just simple projetc
+this is just simple project
